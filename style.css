@@ -1,0 +1,50 @@
+body{
+     background:url(background.jpg);
+     background-size:cover;
+     margin:0;
+   
+}
+
+
+#nomanim,#mailclient,#datentr,#soinsapp,#com,#datesort,#tarif {
+   
+    color:#398492;
+     
+} 
+#nomanim1,#mailclient1,#datentr1,#soinsapp1,#com1,#datesort1,#tarif1,#submit{
+    
+    height: 30px;
+    width:150px;
+     
+    
+}
+
+label {
+    
+     
+    display: block;
+   font-family: 'Open Sans', sans-serif;
+    
+    
+   
+    
+}
+input{
+    font-family: 'Open Sans', sans-serif;
+    color:#037387;
+}
+
+.formulaire {
+    
+     
+    position: absolute;
+    left: 45%;
+    top: 30%;
+}
+
+.submit {
+    
+    
+    position: absolute;
+    top:105%;
+}

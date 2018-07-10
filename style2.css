@@ -1,0 +1,58 @@
+body{
+     background:url(background.jpg);
+     background-size:cover;
+     margin:0;
+   
+}
+
+
+.stylisation {
+   
+    color: red;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    font-family: 'Open Sans', sans-serif;
+    color:#037387;
+    font-size:20px;
+}
+
+.nomanim {
+    
+    
+    position: absolute;
+    left:-15%;
+    top:-60%;
+}
+.mailpro {
+    position: absolute;
+    left:-15%;
+    top:-40%;
+}
+
+.datent {
+    position: absolute;
+    left:-15%;
+    top:-20%;
+}
+
+.soinsap{
+    position: relative;
+    left:-15%;
+    top:-20%;
+}
+.com {
+    position: relative;
+    left:-15%;
+    top:-30%;
+}
+.dateso{
+    position: relative;
+    left:-15%;
+    top:-30%;
+}
+.tarifa{
+    position: relative;
+    left:-15%;
+    top:-30%;
+}
